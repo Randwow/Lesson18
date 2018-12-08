@@ -1,0 +1,23 @@
+{
+  "name": "lesson18",
+  "version": "1.0.0",
+  "description": "Lesson18 Home work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randwow/Lesson18.git"
+  },
+  "author": "Macheev Nichita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randwow/Lesson18/issues"
+  },
+  "homepage": "https://github.com/Randwow/Lesson18#readme",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
